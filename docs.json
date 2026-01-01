@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Dayton Freight Developer Platform",
   "colors": {
-    "primary": "#fa5600",
+    "primary": "#16A34A",
     "light": "#07C983",
-    "dark": "#15803D"
+    "dark": "#fa5600"
   },
   "favicon": "/favicon.svg",
   "navigation": {
