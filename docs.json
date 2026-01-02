@@ -1,11 +1,15 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "aspen",
+  "appearance": {
+    "default": "light",
+    "strict": true
+  },
   "name": "Dayton Freight Developer Platform",
   "colors": {
-     "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#fa5600",
+    "light": "#fa5600",
+    "dark": "#fa5600"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -49,8 +53,7 @@
       },
       {
         "tab": "API reference",
-         "openapi": "https://pwp-api-development.purplewave-b66e1cbb.eastus.azurecontainerapps.io/openapi/v1.json"
-        
+        "openapi": "https://pwp-api-development.purplewave-b66e1cbb.eastus.azurecontainerapps.io/openapi/v1.json"
       }
     ],
     "global": {
