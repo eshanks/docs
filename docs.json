@@ -49,7 +49,7 @@
       },
       {
         "tab": "API reference",
-         "openapi": "https://petstore3.swagger.io/api/v3/openapi.json"
+         "openapi": "https://pwp-api-development.purplewave-b66e1cbb.eastus.azurecontainerapps.io/openapi/v1.json"
         
       }
     ],
