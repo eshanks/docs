@@ -49,8 +49,23 @@
       },
       {
         "tab": "API reference",
-         "openapi": "https://pwp-api-development.purplewave-b66e1cbb.eastus.azurecontainerapps.io/openapi/v1.json"
-        
+        "groups": [
+          {
+            "group": "API documentation",
+            "pages": [
+              "api-reference/introduction"
+            ]
+          },
+          {
+            "group": "Endpoint examples",
+            "pages": [
+              "api-reference/endpoint/get",
+              "api-reference/endpoint/create",
+              "api-reference/endpoint/delete",
+              "api-reference/endpoint/webhook"
+            ]
+          }
+        ]
       }
     ],
     "global": {
