@@ -1,15 +1,15 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "aspen",
+  "theme": "mint",
   "appearance": {
     "default": "light",
     "strict": true
   },
   "name": "Dayton Freight Developer Platform",
   "colors": {
-    "primary": "#fa5600",
-    "light": "#fa5600",
-    "dark": "#fa5600"
+     "primary": "#16A34A",
+    "light": "#07C983",
+    "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
   "navigation": {
