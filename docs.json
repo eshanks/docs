@@ -7,9 +7,9 @@
   },
   "name": "Dayton Freight Developer Platform",
   "colors": {
-     "primary": "#888",
-    "light": "#444",
-    "dark": "#444"
+     "primary": "#002d73",
+    "light": "#002d73",
+    "dark": "#002d73"
   },
   "favicon": "/favicon.svg",
   "navigation": {
