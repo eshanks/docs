@@ -1,3 +1,7 @@
 #navbar .nav-logo {
   height: 2.5rem;
 }
+
+#page-title, h2 { 
+    color: #fa702a !important;
+}
